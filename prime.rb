@@ -1,8 +1,12 @@
 # Add  code here!
-def prime?(integer)
-  array = 1..11000
-  puts array.to_a 
-  array.prime?
-end 
   
-  
+ def prime?(integer)
+    #Returns True if n is prime
+    if n == 2:
+        return True
+    if n == 3:
+        return True
+    if n % 2 == 0:
+        return False
+    if n % 3 == 0:
+        return False
