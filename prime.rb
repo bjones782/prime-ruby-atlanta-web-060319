@@ -12,4 +12,6 @@
         return False
     if n % 3 == 0:
         return False
+        
+  numbers = 
     
