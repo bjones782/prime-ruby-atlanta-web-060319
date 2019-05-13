@@ -34,9 +34,9 @@
 
 #def prime?(num)
  # sieve(num).include?(num)
-end
+#end
 
-puts prime?(105557)
+#puts prime?(105557)
   
 def prime?(n)
   if n <= 1
