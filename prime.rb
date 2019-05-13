@@ -16,7 +16,10 @@
     if n % 3 == 0:
         return False
         
-  puts (1..11000).to_a 
+  counter = 0
+  primes.each do |p|
+    
+    next unless p
   
   
     
