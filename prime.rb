@@ -2,6 +2,9 @@
   
  def prime?(integer)
     #Returns True if n is prime
+    
+    primes = (0..max).to_a
+    
     if n <= 1:
         return False 
     if n == 2:
