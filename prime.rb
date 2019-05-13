@@ -13,7 +13,7 @@
     if n % 3 == 0:
         return False
         
-  numbers = 1..11000
-  puts numbers.to_a 
+  puts (1..11000).to_a 
+  
   
     
