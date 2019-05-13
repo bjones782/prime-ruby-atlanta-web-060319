@@ -2,6 +2,7 @@
   
  def prime?(integer)
     #Returns True if n is prime
+    if n <= 1
     if n == 2:
         return True
     if n == 3:
