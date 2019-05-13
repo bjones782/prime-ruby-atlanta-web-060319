@@ -14,5 +14,6 @@
         return False
         
   numbers = 1..11000
+  puts numbers.to_a 
   
     
