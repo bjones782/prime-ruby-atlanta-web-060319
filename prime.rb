@@ -13,5 +13,6 @@
     if n % 3 == 0:
         return False
         
-  numbers = 
+  numbers = 1..11000
+  
     
